@@ -17,4 +17,4 @@ Pandas & NumPy: Statistical analysis.
 
 Model: RandomForest
 
-HTML/CSS: Custom styling for the simulation results in Jupyter Notebook.
+HTML/CSS: Custom styling for the simulation results in Jupyter / Colab Notebook.
