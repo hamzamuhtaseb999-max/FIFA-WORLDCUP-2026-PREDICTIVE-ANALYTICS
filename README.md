@@ -1,4 +1,6 @@
 #FIFA 2026 PREDICTIVE ANALYTICS & TOURNAMENT SIMULATOR
+
+
 📌 Project Overview
 This project provides a deep dive into the FIFA World Cup 2026 statistics. It combines data science techniques with visualizations to explore team performances and tournament predictions.
 
